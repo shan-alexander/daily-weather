@@ -1,6 +1,6 @@
 module github.com/shan-alexander/daily-weather
 
-go 1.24
+go 1.21
 
 require (
 	cloud.google.com/go/bigquery v1.61.0
